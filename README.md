@@ -2,7 +2,7 @@
 
 projcet in "Data Structures" course, Tel Aviv University, 2021-2022
 <br />
-with [ItayHirschel](https://github.com/ItayHirschel)
+with [ItayHirschel](https://github.com/ItayHirschel) <br />
 Grade: 87
 <br />
 
